@@ -1,1 +1,1 @@
-# esp-32-fimware
+# esp-32-firmware
